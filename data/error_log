@@ -1,0 +1,16 @@
+[02-Nov-2015 07:38:26 UTC] PHP Warning:  Division by zero in /home/dlsorupandehigov/public_html/data/imager.php on line 30
+[02-Nov-2015 07:38:26 UTC] PHP Warning:  imagecreatefrompng(): '../files/groups/383.png' is not a valid PNG file in /home/dlsorupandehigov/public_html/data/imager.php on line 65
+[02-Nov-2015 07:38:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 69
+[02-Nov-2015 07:38:26 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 105
+[02-Nov-2015 07:38:27 UTC] PHP Warning:  Division by zero in /home/dlsorupandehigov/public_html/data/imager.php on line 30
+[02-Nov-2015 07:38:27 UTC] PHP Warning:  imagecreatefrompng(): '../files/groups/383.png' is not a valid PNG file in /home/dlsorupandehigov/public_html/data/imager.php on line 65
+[02-Nov-2015 07:38:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 69
+[02-Nov-2015 07:38:27 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 105
+[05-Nov-2015 10:34:15 UTC] PHP Warning:  Division by zero in /home/dlsorupandehigov/public_html/data/imager.php on line 30
+[05-Nov-2015 10:34:15 UTC] PHP Warning:  imagecreatefrompng(): '../files/groups/383.png' is not a valid PNG file in /home/dlsorupandehigov/public_html/data/imager.php on line 65
+[05-Nov-2015 10:34:15 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 69
+[05-Nov-2015 10:34:15 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 105
+[05-Nov-2015 10:34:19 UTC] PHP Warning:  Division by zero in /home/dlsorupandehigov/public_html/data/imager.php on line 30
+[05-Nov-2015 10:34:19 UTC] PHP Warning:  imagecreatefrompng(): '../files/groups/383.png' is not a valid PNG file in /home/dlsorupandehigov/public_html/data/imager.php on line 65
+[05-Nov-2015 10:34:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 69
+[05-Nov-2015 10:34:19 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dlsorupandehigov/public_html/data/imager.php on line 105
